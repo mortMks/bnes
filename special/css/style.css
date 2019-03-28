@@ -1,0 +1,45 @@
+﻿
+.banner {padding-top: 80px;overflow: hidden;}
+
+.banner h1 {font-size: 36px;text-align: center;font-weight: normal;}
+
+.banner h2 {font-size: 18px;color: #535353;text-align: center;font-weight: normal;margin: 20px 0 60px;}
+
+.banner .swiper {width: 1200px;margin: 0 auto;position: relative;}
+
+.current-swiper {width: 888px;height: 470px;border-radius: 10px;margin: 0 auto;box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);position: relative;z-index: 99;}
+
+.left-swiper {position: absolute;left: -79%;top: 42px;z-index: 1;}
+
+.right-swiper {position: absolute;right: -79%;left: auto;top: 42px;z-index: 1;}
+
+.nocurrent-swiper {width: 888px;height: 388px;border-radius: 8px;box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);}
+
+.nocurrent-swiper:before {position: absolute;top: 0;left: 0;width: 100%;height: 100%;background: rgba(237, 240, 240, 0.9);z-index: 99;}
+
+.slide1 {background: url(../img/shou.png) no-repeat #e2e3e8;background-size: 100% 100%;}
+
+.slide2 {background: url(../img/s.png) no-repeat#f0faf9;background-size: 100% 100%;}
+
+.slide3 {background: url(../img/t.png) no-repeat #fff;background-size: 100% 100%;}
+
+.title {padding-top: 70px;margin-left: 45px;height: 29px;line-height: 29px;font-size: 18px;color: #666;}
+
+.nocurrent-swiper .title {padding-top: 44px;margin-left: 30px;font-size: 16px;height: 25px;line-height: 25px;}
+
+.name {margin-left: 45px;height: 55px;display: inline-block;position: relative;line-height: 55px;padding-bottom: 9px;padding-right: 55px;
+	border-bottom: 1px solid #dddddd;font-size: 36px;color: #333;}
+
+.nocurrent-swiper .name {height: 46px;line-height: 46px;font-size: 30px;padding-right: 46px;margin-left: 30px;}
+
+.name:before {content: '';position: absolute;width: 30px;height: 30px;right: 10px;top: 0;bottom: 0;margin: auto;
+	background: url(../images/curr_sectbg.png) no-repeat center center;}
+
+.nocurrent-swiper .name:before {width: 26px;height: 26px;background-size: 100% 100%;}
+
+.detail {margin-left: 45px;	width: 275px;	margin-top: 30px;	padding-right: 5px;	line-height: 24px;	color: #bbb;font-size: 14px;}
+
+.nocurrent-swiper .detail {font-size: 12px;line-height: 20px;width: 235px;margin-left: 30px;}
+
+
+.swiper-button-next {background: #99dce0d9;}
