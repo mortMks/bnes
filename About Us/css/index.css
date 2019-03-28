@@ -1,0 +1,83 @@
+
+html, body {margin: 0px;padding: 0px;font-family: "Microsoft YaHei";min-width: 1200px;}
+body {font-size: 14px;color:#000;margin: 0;padding: 0;}
+ul,li{list-style: none;margin:0px;padding: 0px;}
+dl,dd,dt{list-style: none;margin:0px;padding: 0px;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+input{outline: none;}
+body {font-size: 14px;color:#000;margin: 0;padding: 0;}
+
+.top{width: 100%;height: 70px;}
+.topa{width: 1200px;height: 70px;margin: 0px auto;}
+.tops{display: block;width: 126px;height: 31px;background-image: url("../img/top.png");background-size: 100% 100%;float:left;margin-top: 20px;}
+.topd{float:left;height: 70px;margin: 0px;}
+.topd li{padding: 0px 20px;height: 70px;float: left;line-height: 70px;}
+.topd li a{height:30px;line-height: 30px;font-size:16px;color: #3e3a3a;display: block;margin-top: 25px;}
+
+.topf a{border-bottom: 2px solid #2b9acd;padding-bottom: 2px;}
+.top_left{display: block;width:103px;height: 23px;background-image: url("../img/top3.png");background-size: 100% 100%;float: right;margin-top: 30px;}
+.top_left1{display: block;width: 98px;height: 36px;line-height: 36px;font-size: 16px;color: #ffffff;line-height: 36px;
+    background-color: #f8b600;float: right;border-radius: 18px;text-align: center;margin: 20px 15px;}
+.top_left2{font-size: 16px;color: #3e3a3a;float: right;display:block;width: 50px;height: 70px;line-height: 75px;text-align: center;}
+.top a:hover{color: red;}
+.content{width: 100%;height:529px;background-image: url(../image/right1.png);background-position: center center;background-repeat:no-repeat;}
+.content1{width: 100%;height: 639px;background-image: url(../image/cent1.png);background-position: center center;background-repeat:no-repeat;}
+.content2{width: 100%;min-height: 10px;height: auto;overflow: hidden;text-align: center;font-size:36px;color: #3e3a3a;padding-top: 95px;}
+.content2{width: 100%;min-height: 10px;height: auto;overflow: hidden;text-align: center;font-size:36px;color: #3e3a3a;padding-top: 95px;}*/
+.content2 label{color: #29a7f5}
+.content3{width: 1000px;height:285px;margin: 115px auto 0px auto;font-size: 22px;color: #fff;line-height: 40px;}
+.content4{width: 100%;height:346px;background-image: url(../image/neno.png);background-position: center center;background-repeat:no-repeat;padding-top: 100px;}
+.content4 ul{width: 900px;height: 300px;margin: 0px auto 0px auto;}
+.content4 ul li{width:233px;height: 300px;float: left;margin-right: 100px;}
+.content4 ul li:last-child{margin-right: 0px;}
+.content4 ul li span{display:block;width: 100%;font-size: 43px;color: #29a7f5;text-align: center;margin: 58px 0px 20px 0px;}
+.content4 ul li label{display:block;width: 100%;font-size:25px;color: #fff;text-align: center;line-height: 40px;}
+
+
+.display{width: 100%; height:978px;background-image: url(../image/text.png);background-position: center center;background-repeat:no-repeat;} 
+.athCenter{width: 1200px;height: 978px;margin: 0px auto;}
+.display1{width: 1200px;height:333px;margin:100px auto;}
+.display2{width:594px;height: 331px;display: block;float:left;position: relative; }
+.display2 img{display: block;width: 100%;height: 100%;border-radius: 15px;}
+.display2 span{display: block;position: absolute;left: 0px;height:50px;line-height: 50px;border-radius: 0px 0px 15px 15px;
+    font-size: 18px;text-indent: 30px; right: 0px;bottom: 0px;color: #fff;background-color: rgba(0,0,0,0.7);}
+.display3{width:510px;height: 331px;float: right;border-radius: 10px;background-color: #eeeeee;padding: 0px 40px; }
+.display4{padding:40px 0px 30px 0px;min-height: 10px;height: auto;overflow: hidden;}
+.display4 span{color: #3e3a3a;font-size: 30px;display: block;width:130px;float:left;}
+.display4 a{display: block;float: right;width: 100px;text-align: right;font-size: 18px;color: #fd2a02;margin-top: 10px;}
+.display3 ul{width: 100%;min-height: 10px;height: auto;overflow: hidden;}
+.display3 ul li{width: 100%;min-height: 10px;height: auto;overflow: hidden;}
+.display3 ul li a{display: block;width: 100%;height: auto;overflow: hidden;font-size: 17px;color: #3e3a3a;line-height:45px;}
+.display3 ul li a:hover{color: #f00;}
+.display4{padding:40px 0px 30px 0px;min-height: 10px;height: auto;overflow: hidden;}
+.display4 span{color: #3e3a3a;font-size: 30px;display: block;width:130px;float:left;}
+.display4 a{display: block;float: right;width: 100px;text-align: right;font-size: 18px;color: #fd2a02;margin-top: 10px;}
+
+.bottom1{width: 1200px;height: 570px;padding:50px 0px 30px 0px;margin: 0px auto;}
+.bottom{width: 100%;min-height: 10px;height: auto;overflow: hidden;background-color: #169ddf;}
+.bottom2{width: 100%;min-height: 10px;height: auto;overflow: hidden;}
+.bottom2 dl{width:140px;float:left;margin-right:50px;}
+.bottom2 dl dt{width: 100%;height: 30px;font-size: 18px;color: #ffffff;margin-bottom: 28px;}
+.bottom2 dl dd{width: 100%;height: 30px;font-size: 18px;color: #ffffff;}
+.bottom2 dl dd a{font-size:14px;color:#fff;float:left;margin-right:10px;}
+.bottom2 dl dd a:last-child{margin-right: 0px;}
+.bottom3{display: block;width:166px;height: 172px;background-image: url("../image/bottom1.png");background-size: 100% 100%;
+    float:left;margin-right:94px; margin-top: 52px;}
+.bottom4{margin-top: 52px;}
+.bottom5{width:180px;float: right;min-height: 10px;height: auto;overflow:hidden;margin-bottom: 210px;}
+.bottom5 span{font-size: 24px;color: #fff;}
+.bottom5 a{display: block;width:180px;height: 40px;background-color: #fff;color: #2b9acd;font-size: 16px;text-align: 
+    center;line-height: 40px;border-radius:5px;margin: 30px 0px; }
+.bottom5 img{display: block;width: 138px;height: 138px;float: right; margin-right: 23px;}
+.bottom6{width: 100%;min-height: 10px;height: 322px;overflow:hidden;text-align: center;font-size: 14px;color: #fff;line-height: 30px;margin-top: -170px;}
+.bottom6 a{color: #fff;}
+
+.bottom_spnk{ z-index: 999; bottom: 0px;left: 0px;right: 0px; position: fixed;width: 100%;height:232px;
+    background-image: url("../image/cvt.png");background-position: center center;background-repeat:no-repeat; }
+.bottom_pink{width: 1200px;margin: 0px auto;padding: 102px 0px 0px 0px;margin-top: 74px;}
+.bottom_pink a{display: block;width: 140px;height: 45px;color: #fff;text-align: center;line-height: 45px;
+    background-color: #29a7f5;float: right;border-radius: 22px;font-size:18px; }
+.bottom_pink input{border:none; width:250px;height: 45px;border-radius: 22px;background-color: #fff;
+    text-indent: 20px;line-height: 45px;font-size: 24px;float: right;margin-right: 20px; }
+.fCenter{width: 1200px;height: 570px;padding:50px 0px 30px 0px;margin: 0px auto;}
